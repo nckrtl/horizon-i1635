@@ -25,3 +25,4 @@ Thumbs.db
 workspace.code-workspace
 /database/database.sqlite
 /database/database.sqlite-journal
+*.md
