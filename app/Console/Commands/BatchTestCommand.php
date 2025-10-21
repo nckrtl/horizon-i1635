@@ -13,7 +13,7 @@ class BatchTestCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'batch:test {--batches=8} {--jobs=100}';
+    protected $signature = 'batch:test {--batches=20} {--jobs=200}';
 
     /**
      * The console command description.
