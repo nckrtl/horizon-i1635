@@ -26,3 +26,4 @@ workspace.code-workspace
 /database/database.sqlite
 /database/database.sqlite-journal
 *.md
+!README.md
